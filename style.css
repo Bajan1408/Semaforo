@@ -5,7 +5,7 @@
 	flex-direction: column;
 	justify-content: center;
 	align-items: center;
-	margin-left: 450px;
+	margin-left: 45vw;
 	border-radius: 10px;
 }
 
@@ -72,8 +72,4 @@
 
 .base button {
 	border-radius: 5px;
-}
-
-#iniciar_semaforo {
-	background-color: #00FA9A;
 }
