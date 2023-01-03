@@ -1,4 +1,4 @@
-        ## **S E M Á F O R O**
+## **S E M Á F O R O**
 
 Projeto simples para exercitar conceitos de html, css e javascript.
 
