@@ -1,0 +1,79 @@
+.main_container {
+	width: 100px;
+	height: 95vh;
+	display: flex;
+	flex-direction: column;
+	justify-content: center;
+	align-items: center;
+	margin-left: 450px;
+	border-radius: 10px;
+}
+
+.luzes {
+	padding: 3px;
+	height: 180px;
+	width: 60px;
+	display: flex;
+	flex-direction: column;
+	border: 1px solid black;
+	justify-content: space-around;
+	align-items: center;
+	border-radius: 10px;
+	background-color: #D3D3D3;
+}
+
+#verm {
+	background-color: red;
+	box-shadow: 0 0 15px 3px;
+	width: 50px;
+	height: 50px;
+	border-radius: 50%;
+	filter: brightness(10%);
+}
+
+#amar {
+	background-color: yellow;
+	box-shadow: 0 0 15px 3px;
+	width: 50px;
+	height: 50px;
+	border-radius: 100%;
+	filter: brightness(10%);
+}
+
+#verde {
+	background-color: green;
+	box-shadow: 0 0 15px 3px;
+	width: 50px;
+	height: 50px;
+	border-radius: 100%;
+	filter: brightness(10%);
+}
+
+.haste {
+	width: 10px;
+	height: 60vh;
+	background-color: #363636;
+}
+
+.base {
+	width: 180px;
+	height: 50px;
+	background-color: #363636;
+	border-radius: 10px;
+	display: flex;
+	justify-content: center;
+	align-items: center;
+}
+
+#parar_semaforo {
+	background-color: red;
+	
+}
+
+.base button {
+	border-radius: 5px;
+}
+
+#iniciar_semaforo {
+	background-color: #00FA9A;
+}
